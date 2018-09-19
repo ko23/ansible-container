@@ -43,7 +43,7 @@ and ``debug``.
     Resolving Jinja expressions to render the final ``container.yml`` is done inside the ``conductor`` container.
 
 
-There are three ways to provide variable values:
+There are four ways to provide variable values:
 
 * Role defaults
 * Passing a YAML or JSON file with the ``--vars-file`` option
